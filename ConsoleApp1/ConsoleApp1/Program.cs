@@ -1,8 +1,8 @@
 ﻿class Add
 {
 
-    public int add(int x, int y)
+    public int add(int a, int b)
     {
-        return x + y;
+        return a + b;
     }
 }
