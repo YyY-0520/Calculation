@@ -1,12 +1,8 @@
-﻿using System;
-
-namespace ConsoleApp1
+﻿class Add
 {
-    class Program
+
+    public int add(int x, int y)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        return x + y;
     }
 }
